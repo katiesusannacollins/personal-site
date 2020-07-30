@@ -1,0 +1,55 @@
+---
+title: "Publications"
+---
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=wng0hQEAAAAJ&view_op=list_works&sortby=pubdate)
+
+## *2020*
+
+Clowes, C. D., J. S. Crampton, K. J. Bland, **K. S. Collins**, J. G. Prebble, J. I. Raine, D. P. Strogen, M. G. Terezow, and T. Womack. 2020. “The New Zealand Fossil Record File: A Unique Database of Biological History.” New Zealand Journal of Geology and Geophysics, July, 1–10. https://doi.org/10.1080/00288306.2020.1799827.
+
+**Collins, K. S.**, S. M. Edie, and D. Jablonski. 2020. “Hinge and Ecomorphology of *Legumen* Conrad, 1858 (Bivalvia, Veneridae), and the Contraction of Venerid Morphospace Following the End-Cretaceous Extinction.” Journal of Paleontology 94 (3): 489–97. https://doi.org/10.1017/jpa.2019.100.
+
+## *2019*
+
+**Collins, K. S.**, S. M. Edie, T. Gao, R. Bieler, and D. Jablonski. 2019. “Spatial Filters of Function and Phylogeny Determine Morphological Disparity with Latitude.” Edited by Feng Zhang. PLOS ONE 14 (8): e0221490. https://doi.org/10.1371/journal.pone.0221490.
+
+**Collins, K. S.**, A. L. H. Hendriks, and M. F. Gazley. 2019. “Fossil Kōura (*Paranephrops ?planifrons* White 1842) (Crustacea: Decapoda: Parastacidae) from the Nukumaruan Marginal-Marine Hautotara Formation, Southeastern Wairarapa.” New Zealand Journal of Geology and Geophysics 62 (1): 143–46. https://doi.org/10.1080/00288306.2018.1527374.
+
+Hines, B. R., M. F. Gazley, **K. S. Collins**, K. J. Bland, J. S. Crampton, and G. T. Ventura. 2019. “Chemostratigraphic Resolution of Widespread Reducing Conditions in the Southwest Pacific Ocean during the Late Paleocene.” Chemical Geology 504 (January): 236–52. https://doi.org/10.1016/j.chemgeo.2018.11.020.
+
+Schumm, M., S. M. Edie, **K. S. Collins**, V. Gómez-Bahamón, K. Supriya, A. E. White, T. D. Price, and D. Jablonski. 2019. “Common Latitudinal Gradients in Functional Richness and Functional Evenness across Marine and Terrestrial Systems.” Proceedings of the Royal Society B: Biological Sciences 286 (1908): 20190745. https://doi.org/10.1098/rspb.2019.0745.
+
+## *2018*
+
+Bicknell, R. D. C., **K. S. Collins**, M. Crundwell, M. Hannah, J. S. Crampton, and N. E. Campione. 2018. “Evolutionary Transition in the Late Neogene Planktonic Foraminiferal Genus *Truncorotalia*.” IScience 8 (October): 295–303. https://doi.org/10.1016/j.isci.2018.09.013.
+
+**Collins, K. S.**, S. M. Edie, G. Hunt, K. Roy, and D. Jablonski. 2018. “Extinction Risk in Extant Marine Species Integrating Palaeontological and Biodistributional Data.” Proceedings of the Royal Society B: Biological Sciences 285 (1887): 20181698. https://doi.org/10.1098/rspb.2018.1698.
+
+Edie, S. M, S. Huang, **K. S. Collins**, K. Roy, and D. Jablonski. 2018. “Loss of Biodiversity Dimensions through Shifting Climates and Ancient Mass Extinctions.” Integrative and Comparative Biology 58 (6): 1179–90. https://doi.org/10.1093/icb/icy111.
+
+Sterk, R., M. F. Gazley, M. P. Wood, **K. S. Collins**, and G. Collis. 2018. “Maximising the Value of Portable XRF Data in Exploration: An Example from Marirongoe, Mozambique.” Geochemistry: Exploration, Environment, Analysis 18 (2): 142–54. https://doi.org/10.1144/geochem2017-037.
+
+Swallow, E. J., C. J. N. Wilson, M. L. Myers, P. J. Wallace, **K. S. Collins**, and E. G. C. Smith. 2018. “Evacuation of Multiple Magma Bodies and the Onset of Caldera Collapse in a Supereruption, Captured in Glass and Mineral Compositions.” Contributions to Mineralogy and Petrology 173 (4): 33. https://doi.org/10.1007/s00410-018-1459-0.
+
+## *2017*
+
+**Collins, K. S.**, and M. F. Gazley. 2017. “Does My Posterior Look Big in This? The Effect of Photographic Distortion on Morphometric Analyses.” Paleobiology 43 (3): 508–20. https://doi.org/10.1017/pab.2016.48.
+
+## *2016*
+
+**Collins, K. S.**, J. S. Crampton, H. L. Neil, E. G. C. Smith, M. F. Gazley, and M. Hannah. 2016. “Anchors and Snorkels: Heterochrony, Development and Form in Functionally Constrained Fossil Crassatellid Bivalves.” Paleobiology 42 (2): 305–16. https://doi.org/10.1017/pab.2015.48.
+
+## *2015*
+
+**Collins, K. S.**, J. S. Crampton, and M. Hannah. 2015. “Stratocladistic Analysis and Taxonomic Revision of the Character-Poor New Zealand Crassatellid Bivalves *Spissatella* and *Eucrassatella*.” Journal of Molluscan Studies 81 (1): 104–23. https://doi.org/10.1093/mollus/eyu076.
+
+## *2013*
+
+**Collins, K. S.**, J. S. Crampton, and M. Hannah. 2013. “Identification and Independence: Morphometrics of Cenozoic New Zealand *Spissatella* and *Eucrassatella* (Bivalvia, Crassatellidae).” Paleobiology 39 (4): 525–37. https://doi.org/10.1666/12048.
+
+## *2009*
+
+Hollis, C. J., L. Handley, E. M. Crouch, H. E.G. Morgans, J. A. Baker, J. Creech, **K. S. Collins**, et al. 2009. “Tropical Sea Temperatures in the High-Latitude South Pacific during the Eocene.” Geology 37 (2): 99–102. https://doi.org/10.1130/G25200A.1.
+
+
