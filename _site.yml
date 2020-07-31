@@ -9,4 +9,4 @@ navbar:
       href: CV-short.pdf
     - text: "Publications"
       href: publications.html
-      
+theme: jekyll-theme-cayman
